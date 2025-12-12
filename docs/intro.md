@@ -1,23 +1,17 @@
 ---
-id: chapter1
-title: Chapter 1 — Understanding Spec-Driven Writing
+id: intro
+title: Introduction — Spec-Driven AI Writing Handbook
 ---
 
-# Chapter 1 — Understanding Spec-Driven Writing
+Welcome to the **Spec-Driven AI Writing Handbook**! 
 
-Spec-driven writing means you write using **clear, structured specifications** that guide AI and keep control in your hands.
+This book teaches you how to write clearly structured instructions and specifications so AI can generate accurate, high-quality content. By using spec-driven writing, you maintain control over the AI output, avoid hallucinations, and ensure your chapters follow a consistent structure.
 
-## Why Spec-Driven?
-- Ensures consistent book structure  
-- Prevents AI from hallucinating  
-- Keeps chapters aligned  
-- Makes editing easier  
+In this introduction, you will learn:
 
-## Core Components
-1. **Goal** — What the chapter must achieve  
-2. **Constraints** — What NOT to include  
-3. **Sections** — The logical flow  
-4. **Examples** — For clarity  
-5. **Deliverables** — What the AI should output  
+- What spec-driven writing is
+- Why it is essential for working with AI
+- How this handbook is organized
+- How to get the most out of each chapter
 
-You will use this technique for every chapter in the book.
+By the end of this book, you’ll be confident in guiding AI to produce exactly what you need, chapter by chapter.
