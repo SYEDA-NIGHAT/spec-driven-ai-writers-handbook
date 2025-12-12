@@ -1,0 +1,22 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+.buttons {
+  margin-top: 2rem;
+}
+
+.section {
+  padding: 3rem 0;
+  text-align: center;
+}
+
+.sectionDark {
+  padding: 3rem 0;
+  text-align: center;
+  background: #111;
+  color: white;
+}
