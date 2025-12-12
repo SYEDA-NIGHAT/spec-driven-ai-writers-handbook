@@ -2,12 +2,12 @@
 const config = {
   title: 'Spec-Driven AI Book',
   tagline: 'Build books using AI + structured specifications.',
-  url: 'https://YOUR_USERNAME.github.io',
-  baseUrl: '/YOUR_REPO_NAME/',
+  url: 'https://github.com/SYEDA-NIGHAT',
+  baseUrl: 'spec-driven-ai-writers-handbook',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'YOUR_USERNAME', // GitHub username
-  projectName: 'YOUR_REPO_NAME',     // Repo name
+  organizationName: 'SYEDA NIGHAT', // GitHub username
+  projectName: 'spec-driven-ai-writers-handbook',     // Repo name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
